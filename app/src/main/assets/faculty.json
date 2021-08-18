@@ -1,0 +1,168 @@
+{
+  "faculty"
+  : [
+  {
+    "Name": "Dr. Onaiza Maqbool",
+    "Designation": "Associate Professor, Chairperson",
+    "ResearchInterests": [
+      "Software reengineering",
+      "Software architecture recovery",
+      "Program understanding",
+      "Machine learning"
+    ],
+    "contact": [
+      {
+        "Email": "onaiza@qau.edu.pk",
+        "Phone": "+92-51-9064 2060"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Khalid Saleem",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Database Systems",
+      "Information Systems",
+      "Distributed Systems",
+      "Data Warehousing/Mining"
+    ],
+    "contact": [
+      {
+        "Email": "ksaleem@qau.edu.pk",
+        "Phone": "+92-51-9064 2061"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Shuaib Karim",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Usability / Accessibility of Interactive Systems",
+      "Web Engineering",
+      "Applied aspects of ontologies"
+    ],
+    "contact": [
+      {
+        "Email": "skarim@qau.edu.pk",
+        "Phone": "+92-51-9064 2055"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Rabeeh Ayaz Abbasi",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Social Media Analytics",
+      "Social Network Analysis",
+      "Machine Learning"
+    ],
+    "contact": [
+      {
+        "Email": "rabbasi@qau.edu.pk",
+        "Phone": "+92-51-9064 2050"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Ghazanfar Farooq",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Agents (Virtual Agents)",
+      "Modeling and Simulation"
+    ],
+    "contact": [
+      {
+        "Email": "ghazanfar@qau.edu.pk",
+        "Phone": "+92-51-9064 2058"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Muddassar Azam Sindhu",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Software Testing",
+      "Model Mining,Formal Methods"
+    ],
+    "contact": [
+      {
+        "Email": "masindhu@qau.edu.pk",
+        "Phone": "+92-51-9064 2066"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Akmal Saeed Khattak",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Information Retrieval",
+      "Machine Learning",
+      "Text Mining",
+      "Natural Language Processing"
+    ],
+    "contact": [
+      {
+        "Email": "akhattak@qau.edu.pk",
+        "Phone": "+92-51-9064 2161"
+      }
+    ]
+  },
+  {
+    "Name": "Dr. Umer Rasheed",
+    "Designation": "Assistant Professor",
+    "ResearchInterests": [
+      "Multimedia Information Retrieval",
+      "Human Aspects of Computing"
+    ],
+    "contact": [
+      {
+        "Email": "umerrashid@qau.edu.pk",
+        "Phone": "+92-51-9064 2012"
+      }
+    ]
+  },
+  {
+    "Name": "Memoona Afsheen Malik",
+    "Designation": "Lecturer",
+    "ResearchInterests": [
+      "Problem Solving and Programming",
+      "Data Structures and Algorithms"
+    ],
+    "contact": [
+      {
+        "Email": "memoona@qau.edu.pk",
+        "Phone": "+92-51-9064 2064"
+      }
+    ]
+  },
+  {
+    "Name": "Ifrah Farrukh Khan",
+    "Designation": "Lecturer",
+    "ResearchInterests": [
+      "Database Systems",
+      "Networking"
+    ],
+    "contact": [
+      {
+        "Email": "ifrahkhan@qau.edu.pk",
+        "Phone": "+92-51-9064 2005"
+      }
+    ]
+  },
+  {
+    "Name": "S. M. Naqi",
+    "Designation": "Lecturer",
+    "ResearchInterests": [
+      "Medical Imaging",
+      "Machine Learning",
+      "Image Segmentation and Classification"
+    ],
+    "contact": [
+      {
+        "Email": "smnaqi@qau.edu.pk",
+        "Phone": "+92-51-9064 2013"
+      }
+    ]
+  }
+]
+}
