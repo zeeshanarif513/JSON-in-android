@@ -44,7 +44,7 @@ public class JSONParsingFromLocalHost extends AppCompatActivity {
         @Override
         protected String doInBackground(Void... voids) {
             try {
-                URL url = new URL("http://192.168.27.241/androidexample/faculty.json");
+                URL url = new URL("http://your_localhost/androidexample/faculty.json");
                 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
                 BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
                 String data;
